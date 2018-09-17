@@ -1,0 +1,46 @@
+_repo: Women-s-Work_52634
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Dilke, Emilia Francis Strong, Lady
+    aliases:
+    - Strong, Emilia Francis, Lady Dilke
+    - Pattison, Emilia Francis Strong, Lady Dilke
+    birthdate: 1840
+    deathdate: 1904
+    gutenberg_agent_id: '46966'
+    url: http://www.gutenberg.org/2009/agents/46966
+creator:
+  authors:
+  - agent_name: Whitley, Margaret
+    gutenberg_agent_id: '46969'
+    url: http://www.gutenberg.org/2009/agents/46969
+  - agent_name: Brooke, A. A. (Agnes Amy)
+    aliases:
+    - Bulley, Agnes Amy
+    - Brooke, Agnes Amy
+    birthdate: 1852
+    deathdate: 1939
+    gutenberg_agent_id: '46968'
+    url: http://www.gutenberg.org/2009/agents/46968
+description: ''
+gutenberg_issued: '2016-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52634'
+  lccn: '11021210'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HD'
+- !lcsh 'Women -- Employment'
+- !lcc 'JK'
+- GITenberg
+tableOfContents: 'Women''s work: literary, professional, and artistic -- Women''s
+  work: clerical and commercial -- Women and trade unions -- The textile trades --
+  Miscellaneous trades -- Influence of occupation on health -- Infant mortality --
+  Legislation.'
+title: Women's Work
+url: http://www.gutenberg.org/ebooks/52634
