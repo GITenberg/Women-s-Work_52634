@@ -10,6 +10,9 @@ contributor:
     deathdate: 1904
     gutenberg_agent_id: '46966'
     url: http://www.gutenberg.org/2009/agents/46966
+covers:
+- cover_type: archival
+  image_path: 52634-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Whitley, Margaret
@@ -24,6 +27,8 @@ creator:
     gutenberg_agent_id: '46968'
     url: http://www.gutenberg.org/2009/agents/46968
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52634#Women-s-Work
 gutenberg_issued: '2016-07-23'
 gutenberg_type: Text
 identifiers:
